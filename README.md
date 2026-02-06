@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
 
-## About Me
+
+## About My Tech
 
 I'm a passionate learner and aspiring developer focused on building my skills in web development and cloud technologies. I believe in continuous learning and hands-on practice to turn concepts into real-world solutions.
 
